@@ -142,6 +142,8 @@ The bot expects a Google Sheets document with the following structure:
 - **Column A**: ID (Player ID)
 - **Column B**: IN-GAME NAME (Player's in-game name)
 - **Column C**: Discord ID (Linked Discord user)
+- ![image](https://github.com/user-attachments/assets/8cd16a8b-1015-4a5b-93fa-7d6c6314d628)
+
 
 ### DKP Columns (auto-detected)
 - **DKP SCORE**: Current DKP score
