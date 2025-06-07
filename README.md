@@ -149,11 +149,13 @@ The bot expects a Google Sheets document with the following structure:
 - **DKP SCORE**: Current DKP score
 - **DKP GOAL**: Target DKP goal
 - **DKP RATE**: Completion percentage
+- ![image](https://github.com/user-attachments/assets/31db3403-f76e-4776-ad0f-c8091da21cba)
 
-### Additional Stat Columns
-The bot automatically detects and categorizes other columns:
-- Battle stats (containing "KILL", "DEATH", "BATTLE", "WAR", "FIGHT")
-- General information (all other numeric columns)
+
+### XLSX File
+Here's a ready document for it, but you'll have to map from where it'll take the stats.
+[DKP Discord Bot.xlsx](https://github.com/user-attachments/files/20641315/DKP.Discord.Bot.xlsx)
+
 
 ## Features in Detail
 
